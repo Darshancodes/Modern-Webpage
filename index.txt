@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+
+    <link rel="stylesheet"
+
+ type="text/css" href="style.css">
+
+<link
+
+</head>
+<body>
+
+<header class="site-headers">
+    <nav>
+        <div class="logo"</div>
+             <h1>Modern Website</h1>
+        <div class="menu">
+             <ul>
+                 <li>Home</li>
+                 <li>Services</li>
+                 <li>About Us</li>
+                 <li>Contact Us</li>
+             </ul>
+         </div>
+    </nav>
+
+   <section>
+        <div class="leftside">
+            <img 
+        </div>
+        <div> class="rightside">
+         <h1>Our Modern Website</h1>
+         <p1> 
+         <button>Welcome</button>
+       </div>
+ 
+   </section>
+<header>
+
+</body>
+</html>
